@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['918731025499', '𝙾𝚜𝚊𝚖𝚞 𝙳𝚊𝚣𝚊𝚒', true],
+  ['918731025499', '𝚉𝚎𝚙𝚑𝚢𝚛 𝚅𝚊𝚕𝚎𝚑𝚊𝚛𝚝', true],
   ['', '', true], 
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['918731025499','918731025499'] 
-global.prems = ['918731025499', '918731025499', '918731025499']
-global.allowed = ['918731025499', '918731025499', '918731025499']
+global.mods = ['917005512394','918731025499'] 
+global.prems = ['917005512394', '918731025499']
+global.allowed = ['917005512394', '918731025499']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -53,9 +53,9 @@ global.APIKeys = { // APIKey Here
 global.botname = '𒐖𒆸 𒁇𒆸𒐖𒋝𒀼𒇲 𒀂𒑚𐎠𒀀𒐖'
 global.premium = 'false'
 global.packname = '𒐖𒆸 𒁇𒆸𒐖𒋝𒀼𒇲 𒀂𒑚𐎠𒀀𒐖' 
-global.author = '@𝙾𝚜𝚊𝚖𝚞 𝙳𝚊𝚣𝚊𝚒' 
+global.author = '@𝚉𝚎𝚙𝚑𝚢𝚛 𝚅𝚊𝚕𝚎𝚑𝚊𝚛𝚝' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/zephyr_valehart?igsh=YzAwZjE1ZTI0Zg==\n' 
 global.dygp = 'https://chat.whatsapp.com/KBRF2DwYiZ756V50xtfFfU'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@Asliguru'
