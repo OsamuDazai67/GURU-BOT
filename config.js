@@ -58,8 +58,8 @@ global.menuvid = 'https://imgur.com/a/3sdH5Ra'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/zephyr_valehart?igsh=YzAwZjE1ZTI0Zg==\n' 
 global.dygp = 'https://chat.whatsapp.com/KBRF2DwYiZ756V50xtfFfU'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.fgyt = 'https://youtube.com/@ZephyrValehart'
+global.fgpyp = 'https://youtube.com/@ZephyrValehart'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
