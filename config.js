@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['918731025499', '𝚉𝚎𝚙𝚑𝚢𝚛 𝚅𝚊𝚕𝚎𝚑𝚊𝚛𝚝', true],
+  ['918731025499', '𝒁𝑬𝑷𝑯𝒀𝑹❈𝑽𝑨𝑳𝑬𝑯𝑨𝑹𝑻', true],
   ['', '', true], 
   [''] 
 ] //Number of owners
@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '【 (ＨＡＮＺＯ ＭＤ) 】'
+global.botname = '【 ＨＡＮＺＯ ＭＤ 】'
 global.premium = 'false'
-global.packname = '【ＨＡＮＺＯ】' 
-global.author = '@𝚉𝚎𝚙𝚑𝚢𝚛 𝚅𝚊𝚕𝚎𝚑𝚊𝚛𝚝' 
+global.packname = '✧' 
+global.author = '◄❖𝒁𝑬𝑷𝑯𝒀𝑹✧𝑽𝑨𝑳𝑬𝑯𝑨𝑹𝑻❖►' 
 global.menuvid = 'https://imgur.com/Th0Sis9'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/zephyr_valehart?igsh=YzAwZjE1ZTI0Zg==\n' 
 global.dygp = 'https://chat.whatsapp.com/KBRF2DwYiZ756V50xtfFfU'
