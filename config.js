@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '【 ＨＡＮＺＯ ＭＤ 】'
+global.botname = '【ＨＡＮＺＯ ＭＤ】'
 global.premium = 'false'
-global.packname = '✧' 
-global.author = '◄❖𝒁𝑬𝑷𝑯𝒀𝑹✧𝑽𝑨𝑳𝑬𝑯𝑨𝑹𝑻❖►' 
+global.packname = '■' 
+global.author = '◤𝖅𝖊𝖕𝖍𝖞𝖗◢' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/zephyr_valehart?igsh=YzAwZjE1ZTI0Zg==\n' 
 global.dygp = 'https://chat.whatsapp.com/KBRF2DwYiZ756V50xtfFfU'
